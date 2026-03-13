@@ -1,0 +1,18 @@
+skill:
+  id: finance-tracker
+  name: 💰 记账助手
+  version: "1.0.0"
+  
+description: |
+  自动记账、支出分析、预算管理
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - finance-tracker
+  - 💰 记账助手
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
