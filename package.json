@@ -1,0 +1,17 @@
+{
+  "name": "finance-tracker",
+  "version": "1.0.0",
+  "description": "自动记账、支出分析、预算管理 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["finance-tracker", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/finance-tracker"
+  }
+}
